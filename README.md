@@ -7,7 +7,7 @@
 - **Challenging Gameplay**: Navigate through randomly generated pipes with varying gaps while avoiding obstacles.
 - **Fruit Collection**: Collect fruits like watermelons and chickens for extra points.
 - **Winter Themed Environment**: Snowflakes, clouds, and a festive atmosphere with a catchy background soundtrack.
-- **Countdown Timer**: A real-time countdown to a special event featuring the *$SNIGGA* coin launch.
+- **Countdown Timer**: A real-time countdown to a special event featuring the *$claus* coin launch.
 - **Sidebar Menu**: Access official links and coin info through a sleek sidebar.
 
 ## How to Play
